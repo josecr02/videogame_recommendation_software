@@ -1,0 +1,21 @@
+types = ['action', 'platform', 'shooter', 'fighting', "beat 'em up", 'stealth', 'survival', 'rhythm', 'battle royale', 'metroidvania']
+
+games_data = [['action', 'Star Wars: Jedi Fallen Order', '5/5', 'Singleplayer', 'Console/PC'], 
+              ['action', 'Elden Ring', '5/5', 'Singleplayer/Online Multiplayer', 'Console/PC'], 
+              ['action', 'Red Dead Redemption II', '5/5', 'Singleplayer/Online Multiplayer', 'Console/PC'], 
+              ['action', 'Batman: Arkham Knight', '5/5', 'Singleplayer', 'Console/PC'],
+              ['platform', 'Celeste', '5/5', 'Singleplayer', 'Console/PC'], 
+              ['platform', 'Super Mario 64', '5/5', 'Singleplayer', 'Console/PC'], 
+              ['platform', 'Crash Bandicoot', '4/5', 'Singleplayer/Multiplayer', 'Console/PC'], 
+              ['shooter', 'The Halo MCC', '12/5', 'Singleplayer/Multiplayer/Online Multiplayer', 'Xbox/PC'],
+              ['shooter', 'Halo Infinite', '5/5', 'Singleplayer/Online Multiplayer', 'Xbox/PC'],
+              ['fighting', 'Super Smash Bros', '5/5', 'Singleplayer/Multiplayer/Online Multiplayer', 'Nintendo Switch'],
+              ["beat 'em up", 'Hyrule Warrios?', 'I have never played the game honestly.', 'Singleplayer', 'Nintendo Switch'],
+              ['survival', 'Minecraft', '12/5', 'Singleplayer/Multiplayer', 'Console/PC'],
+              ['stealth', 'Assasins Creed', '4/5', 'Singleplayer', 'Console/PC'],
+              ['rhythm', 'Guitar Hero', '3.75/5', 'Singleplayer', 'Console/PC'],
+              ["battle royale", 'Apex Legends', '4/5', 'Multiplayer', 'Console/PC'],
+              ['metroidvania', 'Holow Knight', '12/5', 'Singleplayer', 'Console/PC'],
+              ['metroidvania', 'Ori and the blind forest', '12/5', 'Singleplayer', 'Console/PC'],
+              ['metroidvania', 'Ori and the will of the wisps', '12/5', 'Singleplayer', 'Console/PC'],
+              ]
